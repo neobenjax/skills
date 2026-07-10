@@ -13,6 +13,6 @@ When the user asks you a personal question about themselves (e.g. "who am I", "w
 
 3. **Format the Response Base**: Formulate the response precisely as: "Your Name is {Name}, {Age}, coming from {Origin}, and currently living in {Location}". Substitute the values you found in the files.
 
-4. **Web Search for LinkedIn**: Using the `search_web` tool, search the web for a LinkedIn profile that matches the user's Name and Professional Experience (e.g. "John Doe LinkedIn TechCorp Senior Software Engineer"). 
+4. **LinkedIn Information**: First, check if a LinkedIn URL is already provided in the OKF files (e.g., in `personal_info.md`). If it is, use that URL. ONLY if it is missing should you use the `search_web` tool to search the web for a LinkedIn profile matching the user's Name and Professional Experience.
 
-5. **Final Output**: Append the discovered LinkedIn URL to your answer. Ensure the final answer to the user includes both the formatted base string and the LinkedIn link. Do not ask for confirmation before outputting the final result.
+5. **Final Output**: Append the LinkedIn URL (either found locally or via web search) to your answer. Ensure the final answer to the user includes both the formatted base string and the LinkedIn link. Do not ask for confirmation before outputting the final result.

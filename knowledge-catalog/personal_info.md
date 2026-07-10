@@ -1,15 +1,16 @@
 ---
 title: "Personal Information"
-description: "Core personal details for John Doe"
+description: "Core personal details for Benjamin Sanchez Zebadua"
 type: "profile"
 tags: ["personal", "identity"]
 ---
 
 # Personal Information
 
-- **Name:** John Doe
-- **Age:** 35
-- **Origin:** London, UK
-- **Current Location:** New York, NY
-- **Marital Status:** Single
-- **Hobbies:** Hiking, Coding, Photography
+- **Name:** Benjamin Sanchez Zebadua
+- **Age:** 39
+- **Origin:** Mexico
+- **Current Location:** Canada
+- **Marital Status:** Married
+- **Hobbies:** Coding, Hiking, Snowboarding, Cycling, Kayaking
+- **LinkedIn:** [Benjamin Sanchez Zebadua](https://www.linkedin.com/in/benjaminsanchezzebadua/)

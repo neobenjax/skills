@@ -1,20 +1,20 @@
 ---
 title: "Professional Experience"
-description: "Work history of John Doe"
+description: "Work history of Benjamin Sanchez Zebadua"
 type: "experience"
 tags: ["professional", "career"]
 ---
 
 # Professional Experience
 
-## TechCorp Inc.
-- **Title:** Senior Software Engineer
-- **Location:** New York, NY
-- **Dates:** 2018 - Present
-- **Responsibilities:** Led the development of the core agentic framework and scaled the backend infrastructure.
+## Stealth Docs Inc.
+- **Title:** Cross-Functional Team Lead
+- **Location:** Ottawa, ON, Canada
+- **Dates:** April 2026 - Present
+- **Responsibilities:** Orchestrated a zero-cost centralization strategy onto a unified platform, utilizing custom AI scraping tools to eliminate 100% of structural 301 redirection errors.
 
-## DataWorks Ltd.
-- **Title:** Software Developer
-- **Location:** London, UK
-- **Dates:** 2013 - 2018
-- **Responsibilities:** Developed data pipelines and RESTful APIs for client analytics.
+## Lambton College
+- **Title:** Financial Risk & Advisory Analyst Intern
+- **Location:** Ottawa, ON, Canada
+- **Dates:** Jan 2026 - Apr 2026
+- **Responsibilities:** Engineered models using Section 85/LCGE to project a 5% tax rate reduction and $368K in cumulative wealth growth over a 10-year horizon.

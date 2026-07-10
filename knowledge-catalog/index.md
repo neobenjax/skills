@@ -1,12 +1,12 @@
 ---
-title: "John Doe's Knowledge Base"
-description: "Index of John Doe's personal and professional information."
+title: "Benjamin's Knowledge Base"
+description: "Index of Benjamin's personal and professional information."
 type: "catalog"
 ---
 
-# John Doe's Knowledge Base
+# Benjamin's Knowledge Base
 
-Welcome to the personal knowledge base of John Doe.
+Welcome to the personal knowledge base of Benjamin.
 
 ## Contents
 - [Personal Information](personal_info.md)

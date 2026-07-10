@@ -1,13 +1,13 @@
 ---
 title: "Education History"
-description: "Academic background of John Doe"
+description: "Academic background of Benjamin Sanchez Zebadua"
 type: "education"
 tags: ["academic", "history"]
 ---
 
 # Education History
 
-## University of Technology
-- **Degree:** Bachelor of Science in Computer Science
-- **Location:** London, UK
-- **Graduation Year:** 2012
+## Lambton College
+- **Degree:** Post-graduate certificate in Financial Planning & Wealth Management
+- **Location:** Ottawa, ON, Canada
+- **Graduation Year:** 2026
