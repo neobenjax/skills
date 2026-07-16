@@ -8,13 +8,13 @@ tags: ["personal", "identity"]
 # Personal Information
 
 - **Name:** Benjamin Sanchez Zebadua
+- **Phone:** 416-729-8100
+- **Email:** benjaminsz.work@gmail.com
+- **Website:** [https://benjaminsz.com](https://benjaminsz.com)
 - **Age:** 39
 - **Origin:** Mexico
 - **Current Location:** Ottawa, ON, Canada
 - **Marital Status:** Married
-- **Email:** benjaminsz.work@gmail.com
-- **Phone:** 416-729-8100
-- **Portfolio:** https://benjaminsz.com
 - **Hobbies:** Coding, Hiking, Snowboarding, Cycling, Kayaking
 - **LinkedIn:** [Benjamin Sanchez Zebadua](https://www.linkedin.com/in/benjaminsanchezzebadua/)
 

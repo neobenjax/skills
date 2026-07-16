@@ -1,12 +1,13 @@
 ---
-title: "Skills & Certifications"
-description: "Technical skills and professional certifications"
+title: "Skills and Certifications"
+description: "Technical skills and certifications of Benjamin Sanchez Zebadua"
 type: "skills"
 tags: ["skills", "certifications"]
 ---
 
 # Skills and Certifications
 
+## Technical Skills
 - **Frontend Infrastructure & Architectural Patterns:** Monorepo Architecture, Micro-frontends, Build Tooling Optimization, Web Performance (Core Web Vitals), Module Federation, Full-Stack Web Development, Single Page Applications (SPA), System Architecture, Distributed Frameworks.
 - **JavaScript Frameworks & Core Environments:** JavaScript (ES6+), TypeScript, ReactJS, Next.js, Web Components, Node.js, Framework Lifecycle Management.
 - **AI Architecture & Automation:** Python, Localized LLM Frameworks (Ollama), AI Agent Workflows, Spec-Driven Development (SDD), Prompt Optimization, GitHub Copilot Automation.
@@ -15,4 +16,7 @@ tags: ["skills", "certifications"]
 - **UI Engineering & Atomic Styling:** Semantic HTML, CSS3, SASS, LESS, Bootstrap, Atomic Design Systems, Shared Library Versioning.
 - **System Integration & Data Funnels:** RESTful APIs, AJAX, JSON Data Funnels, Multi-step Workflow Tracking, Telemetry Architectures, WordPress Architecture.
 - **Project Governance & Methodologies:** Agile/Scrum, Cross-Functional Leadership, Technical Stakeholder Alignment, Product Management Lifecycle, Jira, Linear.app, Figma.
-- **Credentials & Professional Licenses:** Certified ScrumMaster (CSM), Investment Funds in Canada Certification (IFC® Certified).
+
+## Certifications
+- Certified ScrumMaster (CSM)
+- Investment Funds in Canada Certification (IFC® Certified)
