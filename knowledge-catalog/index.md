@@ -12,3 +12,5 @@ Welcome to the personal knowledge base of Benjamin.
 - [Personal Information](personal_info.md)
 - [Education History](education.md)
 - [Professional Experience](experience.md)
+- [Skills and Certifications](skills.md)
+- [Projects and Volunteering](projects.md)

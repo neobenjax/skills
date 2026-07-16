@@ -8,6 +8,11 @@ tags: ["academic", "history"]
 # Education History
 
 ## Lambton College
-- **Degree:** Post-graduate certificate in Financial Planning & Wealth Management
-- **Location:** Ottawa, ON, Canada
-- **Graduation Year:** 2026
+- **Degree:** Postgraduate in Financial Planning & Wealth Management
+- **Location:** Ottawa, Ontario
+- **Period:** Sept 2024 - Apr 2026
+
+## Universidad de Tecamac
+- **Degree:** B.Eng. Information and Communication Technologies
+- **Location:** State of Mexico
+- **Period:** Sept 2007 - Aug 2011
