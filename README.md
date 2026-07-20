@@ -15,3 +15,7 @@ The primary purpose of this skill is to provide a privacy-first, locally-managed
 ## Structure
 - `knowledge-catalog/`: Contains the OKF markdown files (e.g., `personal_info.md`, `education.md`, `experience.md`).
 - `.agents/skills/personal-knowledge/`: Contains the `SKILL.md` file which defines the agent's behavior and triggers.
+
+---
+*Maintained by [@neobenjax](https://github.com/neobenjax).*
+
