@@ -35,18 +35,26 @@ Follow these steps strictly. This skill uses a **Human-in-the-Loop** approach. A
 - Analyze the results from the Grouping Method and match them with the user's personal profile.
 - Score the match on a scale of 1 to 100.
 - Create a summary of the skills, responsibilities, duties, and achievements from the profile that highlight and cover the requirements in the JD.
+- **CRITICAL**: When listing matching statements, achievements, and responsibilities for each job in the Professional Experience section, you **MUST** use the exact same text/wording as it is written in the source profile. Do NOT rephrase, edit, or summarize the text.
 - Save this analysis in a file named `3 - Job Matching Summary.md` using standard Markdown frontmatter and place it in the folder created for this job application.
 - **Example Summary Format**:
   - **Skills**: [bullet list of current skills in the profile that match the JD]
   - **Professional Experience**:
-    - [Company] - [Role]: [Bullet list of achievements/duties/responsibilities/statements written as gathered from the profile's experience]
-    - [Company 2] - [Role]: [Bullet list...]
+    ### [Company] - [Role]
+    - [Exact matching statement from source profile 1]
+    - [Exact matching statement from source profile 2]
+
+    ### [Company 2] - [Role]
+    - [Exact matching statement from source profile 1]
+
 
 ### Step 5: Tailoring Experience (Human-in-the-Loop)
-- Use the information from the context, analysis, and matching to create a brief summary of the changes needed to modify/add/remove from the profile's experience to increase the matching level to at least **85%**.
+- Take the exact matching statements from Step 4 (grouped by company) and use the P-A-R statement method to rephrase/tailor them according to the job description **no more than 220 characters** (in case they are already tailored).
 - **HUMAN-IN-THE-LOOP**: If the profile's experience lacks a specific and important skill or statement, pause and ask the user open questions to identify the achievement and statement. **Wait for the user's response.** Once the user responds, incorporate the feedback.
 - To address these modifications/rephrasing/additions and recommendations, use the **P-A-R statement method** (described below). Each statement must be **no more than 220 characters**.
-- Once the tailoring is completed and the user has answered the questions, save the analysis in a file named `4 - Job Matching Tailoring Experience.md` using standard Markdown frontmatter and place it in the folder created for this job application.
+- If additional details/statements were added during the Human-in-the-loop iteration, add those statements to the corresponding company and role sections to which they belong.
+- **Formatting & Ordering**: Group everything by `### [Company] - [Role]`. Within each section, place the bullets in the order they were collected: first the rephrased statements from Step 4, followed by the new statements from the Step 5 Human-in-the-loop iteration.
+- Once the tailoring is completed, the user has answered the questions and the matching level increased to at least **85%**, save the analysis in a file named `4 - Job Matching Tailoring Experience.md` using standard Markdown frontmatter and place it in the folder created for this job application.
 
 #### P-A-R Statement Method
 PAR stands for Problem, Action, Result. It demonstrates the ability to showcase professional achievements, demonstrating your ability to identify issues, take initiative, and deliver tangible results.
@@ -61,7 +69,7 @@ PAR stands for Problem, Action, Result. It demonstrates the ability to showcase 
 ### Step 6: Corporate Intelligence Brief & Professional Statement
 - Write a Corporate Intelligence Brief: A concise, 300-word summary detailing what the target company does, its core challenges, and how the user's profile naturally solved their problems.
 - Craft a Professional Statement: Around 300 characters or less, using the profile experience and keywords from the JD. Create a powerful value proposition that could attract a Recruiter's attention in under 5 seconds of skimming.
-- Write "Career Highlights": A summary of the top 3 highlights that resonate with the Job Description and align with the profile's experience. Each highlight must be less than 220 characters. They should not repeat the professional experience tailoring, but highlight specific achievements for this JD.
+- Write "Career Highlights": A summary of the top 3 highlights that resonate with the Job Description and align with the profile's experience. Make sure these highlights are written using the P-A-R method, are drawn from the professional experience as a summary of the best highlights, and do not repeat the professional experience tailoring. Each highlight must be less than 220 characters.
 - Save this in a file named `5 - Tailored Professional Statement and Career Highlights.md` using standard Markdown frontmatter and place it in the folder created for this job application.
 
 ### Step 7: Tailored Cover Letter (Human-in-the-Loop)
